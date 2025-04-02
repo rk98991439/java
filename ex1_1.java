@@ -24,6 +24,8 @@ public class ex1_1 {
         int totalmarks = (English+Maths+Physics+Chemistry+Biology);
         System.out.println(totalmarks);
         
+
+
         int persentage =  (totalmarks/5);
         System.out.println("Total persentage is = "+persentage+"%");
 
